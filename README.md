@@ -34,7 +34,7 @@ Folosim SMTP2GO pentru trimiterea alertelor:
 - Server: `mail.smtp2go.com`
 - Port: `2525`
 - Autentificare: `base64(username)` și `base64(password)`
-- Email trimis către: `viorel.pichler@student.upt.ro`
+- Email trimis către: `pichler.gabriel2@gmail.com`
 
 > ⚠️ Asigură-te că ai cont SMTP2GO și că ai activat autentificarea de tip SMTP.
 
